@@ -7,3 +7,5 @@
   * If the letter('s) doesn't match, then those letters are highlighted with red background.
 
 _Note: The color choices are my own, you can alter them as your which_ 
+
+![Screenshot from 2024-12-04 19-48-33](https://github.com/user-attachments/assets/81936457-ff8d-479b-a37e-b5c78cde529a)
